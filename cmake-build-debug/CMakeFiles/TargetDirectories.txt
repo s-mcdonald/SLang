@@ -1,0 +1,3 @@
+/home/sam/Code/SLang/cmake-build-debug/CMakeFiles/SLang.dir
+/home/sam/Code/SLang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sam/Code/SLang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
