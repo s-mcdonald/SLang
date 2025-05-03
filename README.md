@@ -20,7 +20,7 @@ is optionally returned at the end of the file otherwise 0 is implied.
 
 #### File: slang.s
 ```c++
-    terminal "Hello World..";
+    print "Hello World..";
 ```
 
 #### Infer types at compile time.
@@ -37,8 +37,8 @@ is optionally returned at the end of the file otherwise 0 is implied.
 
 ```c++
 
-    y = 1;
-    x = 4;
+    uunt y = 1;
+    uint x = 4;
 
     when (x == 5) [y] { //< we capture by value at time on instantiation
         // we have reference to y while it is value of 1
