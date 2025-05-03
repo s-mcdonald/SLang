@@ -37,7 +37,7 @@ is optionally returned at the end of the file otherwise 0 is implied.
 
 ```c++
 
-    uunt y = 1;
+    uint y = 1;
     uint x = 4;
 
     when (x == 5) [y] { //< we capture by value at time on instantiation
